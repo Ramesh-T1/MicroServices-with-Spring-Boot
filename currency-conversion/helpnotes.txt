@@ -1,0 +1,2 @@
+http://localhost:8100/currency-conversion-feign/from/EURO/to/INR/quantity/20
+http://localhost:8100/currency-conversion-feign/from/{from}/to/{to}/quantity/{qty}
